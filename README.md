@@ -2,7 +2,7 @@
 
 # Hi there, I'm Nayum Khan 👋
 
-### Java Full Stack Developer | AWS & Azure Certified | MSc Advanced Computer Science @ University of Exeter
+### Java Full Stack Developer | AWS & Azure Certified | MSc Graduate @ University of Exeter 🎓
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayum-khan)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayumk007-alt)
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **MSc Advanced Computer Science** at the **University of Exeter**, UK (2024–2025)
+- 🎓 Completed **MSc Advanced Computer Science** at the **University of Exeter**, UK (2024–2025)
 - 💼 **2 years of professional experience** as a Java Full Stack Developer at **Capgemini**
 - ☁️ **AWS Certified Solutions Architect – Associate** & **Microsoft Azure Fundamentals** certified
 - 🚀 Built scalable Java applications at Capgemini, improving system performance by **20%**
@@ -104,7 +104,7 @@
 
 | Degree | Institution | Year |
 |--------|-------------|------|
-| 🎓 MSc Advanced Computer Science | University of Exeter, UK | 2024–2025 |
+| 🎓 MSc Advanced Computer Science ✅ | University of Exeter, UK | 2024–2025 |
 | 🎓 BTech Computer Science | Malineni Perumallu Educational Society's Group of Institutions | 2017–2021 |
 
 ---
