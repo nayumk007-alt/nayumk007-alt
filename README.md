@@ -109,30 +109,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayumk007-alt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayumk007-alt&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nayumk007-alt&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=nayumk007-alt&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm a **Java Full Stack Developer** with Capgemini experience, AWS & Azure certifications, and an MSc from the **University of Exeter**. Currently based in the **UK** and open to new opportunities!
